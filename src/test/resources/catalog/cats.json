@@ -1,0 +1,16 @@
+{
+	"pattern": "cats",
+	"frameType": "REQUEST_STREAM",
+	"request": {},
+	"responses": [
+		{
+			"name": "Felix"
+		},
+		{
+			"name": "Garfield"
+		},
+		{
+			"name": "Mr. Bigglesworth"
+		}
+	]
+}
